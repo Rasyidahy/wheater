@@ -1,2 +1,2 @@
-# wheater
+# weather
 shecodes
